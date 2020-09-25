@@ -1,4 +1,4 @@
-# RealFuzzBuzz3
+# RealFizzBuzz3
 Step 3:
 Enhance your existing solution to perform the following:
 1. Produce a report at the end of the program showing how many times the following were
